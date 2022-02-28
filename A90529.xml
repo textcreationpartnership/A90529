@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cordial tincture, prepared by Charles Peter chyrurgeon, at his bathing-house in St. Martins-lane near Long Acre: June 12. 1686. THis may be printed</title>
+            <author>Peter, Charles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90529</idno>
+            <idno type="STC">Wing P1681</idno>
+            <idno type="STC">ESTC R231932</idno>
+            <idno type="EEBO-CITATION">99897516</idno>
+            <idno type="PROQUEST">99897516</idno>
+            <idno type="VID">133302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133302)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2504:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cordial tincture, prepared by Charles Peter chyrurgeon, at his bathing-house in St. Martins-lane near Long Acre: June 12. 1686. THis may be printed</title>
+                  <author>Peter, Charles.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXVI. [1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Wellcome Institute for the History of Medicine, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  England --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133302:1" rendition="simple:additions"/>
+            <pb facs="tcp:133302:1" rendition="simple:additions"/>
+            <p>THE Cordial Tincture, PREPARED BY <hi>CHARLES PETER</hi> CHYRURGEON, AT HIS Bathing-Houſe IN St. <hi>Martins-lane</hi> near <hi>Long Acre:</hi>
+            </p>
+            <p>
+               <hi>June</hi> 12. 1686. This may be Printed,</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author. MDCLXXXVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133302:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:133302:2"/>
+            <head>THE CORDIAL TINCTURE.</head>
+            <p>MY Reputation is ſo ſecure, that I fear not the Malice of ſome, nor the Emulation of others; and I bleſs God, that has plac'd my Condition above Contempt. There is no Man that knows me, but knows, I do not this for need. This is one way to ſhew the World I am willing to do good, and not to hide ſo great a Light under a Buſhel. He that has felt the intollerable Pain of the Stone and Collick, cannot but commiſerate the like condition in others. And he that has miraculouſly been eaſed, and that often, by this Noble Medicine, can do no leſs than indeavour to free Mankind from ſuch tormenting Maladies.</p>
+            <p>Who then can ſay, I detract from my ſelf, by ex<g ref="char:EOLhyphen"/>poſing this Noble Remedy, which in one Hour has eaſed me of the moſt violent Collick, and has brought from me a prodigious quantity of Gravel and ſmall Stones? <hi>Laus Deo.</hi>
+            </p>
+            <p>Many which have been helped by the powerful effects of this <hi>Cordial Tincture,</hi> have obliged me to prepare greater quantities, that I might be able to furniſh thoſe that daily require it of me. And not a few have offer'd to certifie the wonderful effects wrought on them by it; but 'tis below me to ac<g ref="char:EOLhyphen"/>cept of ſo mean a thing; my own authority being
+<pb n="4" facs="tcp:133302:3"/>ſufficient to give <hi>Credit</hi> to this, or any other <hi>Medicine.</hi>
+            </p>
+            <p>But ſome will ſay, What need I put it in Print, for 'tis ſufficiently known among Perſons of Qua<g ref="char:EOLhyphen"/>lity; and for the unthinking Crowd, they are not worth the ſaving?</p>
+            <p>Yes, Gentlemen, the very Pooreſt ſhall not want this Remedy; no Age nor Sex but ſhall have Comfort by it: Nor will any wiſe Man be with<g ref="char:EOLhyphen"/>out it, ſince 'tis not only powerful in Curing, but admirable to Prevent moſt Diſeaſes; 'tis not only Profitable but Pleaſant.</p>
+            <p>And now if ſome malevolent Detractor ſhall diſ<g ref="char:EOLhyphen"/>praiſe the Grapes he cannot reach, or ſay, Have we not Medicines ſufficient in our <hi>Diſpenſatory?</hi> Have we not Learned <hi>Phyſicians,</hi> and Faithful <hi>Pharmaco<g ref="char:EOLhyphen"/>peans?</hi> What need have we then of any new Medi<g ref="char:EOLhyphen"/>cine? I only anſwer.</p>
+            <p>What Medicine is like this, adapted to every Age and Conſtitution, and to moſt Diſeaſes; and then ſo pleaſant, that the moſt nice Pallat cannot diſguſt it, nor the weakeſt Stomach reject it? And if I prove it more Natural to the Body of Man than any other Medicine, who then can diſlike it? As for Example.</p>
+            <p>The Body of this <hi>Cordial Tincture</hi> is no hotter than Wine, and many of the Ingredients are ſo cool, that the whole Compoſition is of equal Temper. Whatever ill Humour it meets with, it moves ſo gently, that it makes no Emotion of the Spirits, but comforts and refreſhes the Body.</p>
+            <p>'Tis ſo natural to the Body, that there cannot be a more refreſhing Cordial; and ſo kind to Nature,
+<pb n="5" facs="tcp:133302:3"/>that it abſolutely corrects all Morbifick Matter, without any trouble or moleſtation of buſineſs. 'Tis a proper <hi>Vade mecum,</hi> being a Friend at all times, and in all places; inſomuch that I will never ſtir from home without it.</p>
+            <p>And now, Reader, know, thou haſt not to do with one that will copy a Weekly Bill for the Names of Diſeaſes, and appropriate the Cure of every Di<g ref="char:EOLhyphen"/>ſtemper to ſome invalid (or no) Medicine: But know, I abhor all ſuch mean and Quacking Tricks.</p>
+            <p>I who have been ſo long (not the meaneſt) Son of <hi>Aeſculapius,</hi> and who may boaſt of the Happi<g ref="char:EOLhyphen"/>neſs to have long converſed with the greateſt Ma<g ref="char:EOLhyphen"/>ſters of Medicine, will not now act ſo much below my ſelf, as to inſert any thing here, but what is moſt exactly Truth.</p>
+            <div type="part">
+               <head>This CORDIAL TINCT<g ref="char:V">Ʋ</g>RE Cures the COLLICK in the Stomach, Guts, Kidneys, &amp;c</head>
+               <p>Take Seven or Eight Spoonfuls as ſoon as the fit takes you, and if you have not eaſe in half an Hour, take Seven or Eight Spoonfuls more, and then depend upon it. If poſſible, get ſome Chick<g ref="char:EOLhyphen"/>en-broth and drink after it. The <hi>Cordial</hi> will drive down the Wind and ſharp Humour, and will work by Urine and Stool; and by giving Eaſe, will cauſe Sleep. A day or two after, it will be convenient to take three or four Spoonfuls at any time, either Morning or Night, which will carry off whatever remains of ill in your Body.</p>
+            </div>
+            <div type="part">
+               <head>NEPHRITICK PAINS.</head>
+               <p>Whereby is cauſed violent Pain in the Back, Loins, Bladder, <hi>&amp;c.</hi> with frequent Vomiting, and all the
+<pb n="6" facs="tcp:133302:4"/>Symptoms of the Stone, and is ſcarcely known from the Stone.</p>
+               <p>Take five or ſix Spoonfuls of this <hi>Cordial Tincture,</hi> and drink Chicken-broth, half an hour or an hour after, and you will be helped. Twelve hours af<g ref="char:EOLhyphen"/>ter, take three or four Spoonfuls of the <hi>Cordial,</hi> if you are not cured by the firſt Doſe, aſſure thy ſelf the ſecond will not fail thee.</p>
+            </div>
+            <div type="part">
+               <head>STONE in the Kidneys, <g ref="char:V">Ʋ</g>reters, Bladder, and Neck of the Bladder.</head>
+               <p>I need not name the Symptoms; every unhappy Mortal, who has felt this Diſtemper, knows to their coſt how great the Torment. Yet, God be praiſed, this <hi>Cordial Tincture</hi> can clear the Body from Stones, brings away great Quantities of Gravel, hin<g ref="char:EOLhyphen"/>ders the coagulating of Gravel and ſlimy Humours, (which generate Stones) hinders all retention of Humours in the Kidneys, Ureters, Bladder, and pre<g ref="char:EOLhyphen"/>vents Stoppages in the Neck of the Bladder.</p>
+               <p>Pray obſerve, That in this Diſtemper you are to take but two or three Spoonfuls of the <hi>Tincture</hi> at a time, and that you take two or three Spoonfuls every two hours in a violent Fit, and be ſure to drink ſome Chicken-broth between every Doſe, or for want of the Broth drink warm Ale, which will be the better, if you add to half a Pint of Ale, one Spoonful of Oyl of Sweet-Almonds. And pray ob<g ref="char:EOLhyphen"/>ſerve, ſo ſoon as the Stone has paſſed, then you need not take above one Spoonful of the <hi>Tincture</hi> in a day; and let your Diet be Water-gruel, or Barley-Gruel, or Chicken-broth. Moreover it would be very proper for thoſe who can diſpence with the
+<pb n="7" facs="tcp:133302:4"/>Charge, to Bathe with the <hi>Tincture</hi> in their Bodies, after the paſſing of the Stone. But above all, take heed of too violently precipitating the Stone, which has proved dangerous to many: But fear not this Medicine, uſing the foreſaid Directions. But in thoſe fits which are more mild, you need not take the Medicine above twice a day; and in more moderate Caſes, once in a day three or four Spoonfuls. And or thoſe Bodies who are only ſubject to Gravel, twice a Week may be ſufficient, to clear the Body of that, which upon the leaſt Cold may prove more troubleſome than they imagine.</p>
+            </div>
+            <div type="part">
+               <head>Admirable for the L<g ref="char:V">Ʋ</g>NGS.</head>
+               <p>Helps Difficulty in Breathing, cleanſes from pu<g ref="char:EOLhyphen"/>trid Flegm, and enables Expectoration; ſweetens the breath, by carrying away all putrid Flegm from the Lungs, in a word, is a Balſamick Liquor, that both cleanſeth, and heals, and fortifies; which will be proved, by taking two Spoonfuls in a Morning, and then either going about your Buſineſs abroad, or uſing ſome gentle Exerciſe at home. This No<g ref="char:EOLhyphen"/>ble Liquor will open your obſtructed Veſſels, and Evacuate whatever Humour offends, both by ſpit<g ref="char:EOLhyphen"/>ting up much ſoul Matter, and carrying the reſt down by Urine and Stool, without any hindrance of Buſineſs. But for thoſe who have long been af<g ref="char:EOLhyphen"/>flicted with Diſeaſes of the Lungs, it will be con<g ref="char:EOLhyphen"/>venient for them to take this <hi>Tincture,</hi> not only in the Morn, but at Noon, about an hour after Din<g ref="char:EOLhyphen"/>ner, one Spoonful, and at Night one Spoonful more, and ſo to continue for the ſpace of one Week, which will give certain Relief. 'Tis moſt deplora<g ref="char:EOLhyphen"/>ble
+<pb n="6" facs="tcp:133302:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:133302:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:133302:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:133302:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:133302:7"/>to ſee how many are loſt daily (for want of ta<g ref="char:EOLhyphen"/>king care in time) of Diſtempers of this nature: For 'tis well known to the Ableſt Phyſicians, that few call for help in this Caſe, untill by continually coughing ſome Veſſel is burſt, ſo that they are ma<g ref="char:EOLhyphen"/>ny times nigh bleeding to death. Others underge the Malady till their Lungs are ulcerated; that if they would but in time take this precious <hi>Tincture</hi> might eaſily overcome the Diſeaſe. <hi>Engliſhmen</hi> ought to conſider, that they live in a Place where Diſtempers of the Lungs are ſcarce to be avoided and nothing is ſo proper as this <hi>Tincture</hi> to preſerve For it fortifies by its Comfortable Quality, by it Aperient Quality it makes way for Nature to throw off offending Humours, and by its Balſamick Qua<g ref="char:EOLhyphen"/>lity it eaſes the inflamed and raw Parts, as they well know, who have ſound ſuccour from it, it taking away ſoon the roughneſs and ſoreneſs of the <hi>Aſpera Arteria.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Cures the SC<g ref="char:V">Ʋ</g>RVEY,</head>
+               <p>Which is become univerſal, and not only afflicts by its own (and thoſe too many) Symptoms, but being complicated with other Diſtempers, makes them more difficultly admit of cure. And indeed ſo very common this Diſeaſe is among us, that <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> might almoſt ſpare the labour of repeating any of its Symptoms: For who doth not daily ſee many languiſh away, being enervated by the cruelty of this Diſtemper? Their Faces become livid, their Voices loſt, the whole Body emaciated, almoſt every Part of the Body diſcoloured by blue or elſe
+<pb n="9" facs="tcp:133302:7"/>brown Spots, like Tetters, appearing in many Parts, and in ſome, cauſing Pains like the Venereal Diſeaſe. What is there then can root up ſuch a Malady, but this famous <hi>Cordial Tincture,</hi> which abſolutely eradicates all Scorbutick Taints, by open<g ref="char:EOLhyphen"/>ing Obſtructions, evacuating the offending Humour, and corroborating the Parts lately affected? And this it will do, if you take of it five or ſix Spoonfuls at a time, either Morn or Evening, three times a Week.</p>
+            </div>
+            <div type="part">
+               <head>Cures the DROPSIE.</head>
+               <p>By evacuating the Watry Humour, both by Urine, Stool, and Pores of the Skin. It not only brings down the great Swellings of the whole Body, but it ſtrengthens the Liver, and amends the ill quality of it, refreſhing all the Noble Parts, making the Body lively, and more apt for Exerciſe, carrying off all Crudities that hinder the perfect Concoction. Pray obſerve, That this Diſtemper is ſeldome per<g ref="char:EOLhyphen"/>fectly cured, by reaſon the Liver being once debili<g ref="char:EOLhyphen"/>tated, is continually ſubject to relapſing. Now this Noble <hi>Tincture</hi> hath a particular Quality to re<g ref="char:EOLhyphen"/>ſtore and amend the ill-tempered Liver, by which means the Cure becomes perfect. And therefore you muſt in this Caſe take of the Medicine every day five or ſix Spoonfuls in a Morn, and one or two at Night, for ten days together, drinking at Meals Wormwood-Wine, (the poorer ſort Wormwood-Beer.) You may drink Coffee, Sage, or Tea af<g ref="char:EOLhyphen"/>ter it, if you pleaſe; and may obſerve, That as your Diſtemper goes off, you may decreaſe the Doſe.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:133302:8"/>
+               <head>Cures MELANCOLY.</head>
+               <p>Whereby the Body is diſ-ſpirited, and become unfit for Action, the Fleſh waſted, Sleeps diſturbed with horrid Dreams and frightful Imaginations, which makes even Life it ſelf uneaſie. The multitudes of Accidents attending this Diſtemper, are too many here to repeat; and what diſmal Accidents have happened by reaſon of it, are ſo much known, as may ſave my labour in this particular. But let all thoſe who are under this Indiſpoſition, take this Chearing <hi>Tincture,</hi> which will give Spirit to the Body and Eaſe to the Mind, by refreſhing the Spirits both Animal and Vital, removing all black and foul Choler from the Veſſels, opening all Stoppages, and evacuating the offending Humour, by taking of it twice a Week, four or five Spoonfuls at a time, and following your uſual Occaſions, as if you had took nothing.</p>
+            </div>
+            <div type="part">
+               <head>Helps the SPLEEN,</head>
+               <p>A moſt troubleſome, and almoſt univerſal Diſeaſe, which few or none are without, and yet ſcarce any will own; a Diſtemper alway complicated, uſhering man other Diſeaſes into the Body, whoſe various effects would ſwell to a Volume, ſhould I recount them The anxiety of the Mind is it ſelf enough to torture any, but the oppreſſion cauſed by the pent up Wind is intollerable, the uneaſineſs of the Body, takes away the injoyment of the Mind Nor doth Friends, Relations, a hearty Bottle, or any thing elſe, give relief, like this wonderful <hi>Cordial Tincture.</hi> Three Spoonfuls of this Liquor doth immediately diſpel the Wind, chears the Heart
+<pb n="11" facs="tcp:133302:8"/>refreſhing all the Faculties, and carries off the cauſe of the Diſeaſe. Let all thoſe who would live free from this troubleſome Diſeaſe, be often taking of this famous <hi>Tincture,</hi> which will not only give re<g ref="char:EOLhyphen"/>lief in the very height of this Diſeaſe, but by the frequent uſe of it, will eradicate the very worſt of it.</p>
+            </div>
+            <div type="part">
+               <head>This CORDIAL TINCT<g ref="char:V">Ʋ</g>RE</head>
+               <p>Is moſt admirable for thoſe Men, who either by Diſcontinuance, or by Diſtemper, or by the ill Conſtitution of their Bodies, become debilitate in the Conjugal Duty. For one Spoonful or two, taken once in a day, doth carry away all cold indige<g ref="char:EOLhyphen"/>ſted Humours, ſtirs up the Native Heat, and by cre<g ref="char:EOLhyphen"/>ating a good Stomach, and helping Digeſtion, gives Spirits to the Body, and reſtores the Generative Faculty.</p>
+            </div>
+            <div type="part">
+               <head>DISEASES of WOMEN</head>
+               <p>Are cured by this Liquor; for it helps all Indigeſti<g ref="char:EOLhyphen"/>ons and opens Obſtructions, cauſing a freſh and lively Colour in the Cheeks and Lips, and takes away the ſtoppages. It cleanſeth the Womb from all cold and indigeſted Humours, which cauſes Bar<g ref="char:EOLhyphen"/>renneſs (and ſometimes turns the Womb into Stone, as I found in a Perſon of Quality, who I opened in the preſence of Doctor <hi>D.</hi> of St. <hi>Martins-lane,</hi> and found her Womb petrified, and that ſo hard that my Knife could not penetrate it.) This Lady had been three times married, and always to ſtrong like<g ref="char:EOLhyphen"/>ly Men; but had <hi>Hercules</hi> been her Husband, ſhe had been ſtill Childleſs; and no doubt this was oc<g ref="char:EOLhyphen"/>caſioned by ſome cold humour falling on the Womb which by degrees turned it to Stone; and no doubt
+<pb n="12" facs="tcp:133302:9"/>but the ſame may, or has happened to others, but not diſcovered for want of Diſſection. Now I ad<g ref="char:EOLhyphen"/>viſe all Women that are not bleſſed with fruitful<g ref="char:EOLhyphen"/>neſs, that they uſe this <hi>Tincture</hi> once in three <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> four Days, three or four Spoonfuls, which has power to carry away all crude Humours, to reſtore the languiſhing Spirits, to quicken and ſtir up the native heat, and to prevent thoſe Accidents which make them reproached even by their own Sex.</p>
+            </div>
+            <div type="part">
+               <head>WORMS,</head>
+               <p>In Perſons of all Ages, for 'tis well known man are afflicted with this Diſeaſe beſides Children, it may be obſerved by the gnawings and tortions of the Guts, which ſome ignorant People think only the Gripes, but indeed are Worms, which if not ſpeedily removed, deſtroy the miſerable Patient Which danger may be prevented by taking of this Tincture four or five Spoonfuls, which will carry a way the Worms, together with all Viſcous Hu<g ref="char:EOLhyphen"/>mours, of which they are generated; and for little Children, let their Mothers or Nurſes give them <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this Noble Cordial, forty or fifty drops in ſome Hartshorn Poſſet-drink, once in a day, for three or four days together, and they will find comfort by it eſpecially if they rub a little of the Cordial upon the Navel and Belly of the Child, and to Children <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> two or three years old, two or three Spoonfuls muſt be given once in two days.</p>
+               <p>Nor need the Good-fellow lie Puking in a Morn after the injoyment of a hearty Bottle; for two or three Spoonfuls of this Liquor taken the Morning
+<pb n="13" facs="tcp:133302:9"/>after a Deboiſh, carries away whatever offends the Stomach. In a word, this is the Cordial fitting to be took after a Surfeit, either of Wine or Victuals.</p>
+            </div>
+            <div type="part">
+               <head>The GO<g ref="char:V">Ʋ</g>T,</head>
+               <p>Although this Liquor hath ſo many Noble Quali<g ref="char:EOLhyphen"/>ties, yet I dare not ſay it will cure the Gout, for I well know ſome Gouts are incurable, and moſt are ſo ſtubborn, that they daily baffle choice Medicines, ſo that few or none have got Reputation by attacking this Diſeaſe; and moſt conclude the beſt way is to meddle leaſt, this Diſtemper chiefly requiring Pati<g ref="char:EOLhyphen"/>ence and abſtinence; yet I muſt affirm that I have helped many in raging Fits, by Bleeding ſome in the very Part, and others in Parts remote from the Pain; many I have relieved by Bliſtering, either in the very Part, or near it; but I cannot boaſt of abſo<g ref="char:EOLhyphen"/>lutely curing many: Yet for the Benefit of mankind, this I aſſert, That the beſt Remedy in the World <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> prevent the Gout, is this <hi>Cordial Tincture;</hi> and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doubt not but the uſing it, will eradicate ſuch <hi>Gouts</hi> as are not become inveterate. As for Exam<g ref="char:EOLhyphen"/>ple: All Men know, the <hi>Gout</hi> is in ſome a tough viſcous Humour, in others a thin, acrid, gnawing Humour, and in many ſo very crude, that in time it becomes Chalky, and by clogging the Tendons and Nervous Parts, it deſtroys Motion, making the Pa<g ref="char:EOLhyphen"/>tent a miſerable Cripple.</p>
+               <p>Now thoſe that would be free from this woful Malady, let them accuſtom their Bodies to this <hi>Tincture,</hi> which will certainly preſerve thoſe that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et are free, (and as I ſaid before) cure thoſe whoſe <hi>Gouts</hi> are not already confirmed. For this <hi>Tincture</hi>
+                  <pb n="14" facs="tcp:133302:10"/>cleanſeth the Joynts from all ſlimy Humours, car<g ref="char:EOLhyphen"/>rieth away Choler, Flegm, and all acrid Juices, as ſweetens the Blood to a miracle; and therefore is proper Remedy for the <hi>Gout</hi> of any ſort, either take Night or Morning, once in three days, four or <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spoonfuls at a time, keeping a low Diet.</p>
+            </div>
+            <div type="part">
+               <head>KINGS EVIL</head>
+               <p>Is helped by the frequent Uſe of this <hi>Tincture.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may be obſerved, That of all Ages, Sexes, and Con<g ref="char:EOLhyphen"/>ſtitutions, ſome are afflicted with this <hi>Evil;</hi> but <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> major part of theſe Patients are Children, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Flegmatick Perſons: And 'tis to be noted, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Children, as the natural heat encreaſes, do by <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>grees throw off the Malignity of the <hi>Evil;</hi> and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ulcers which formerly would not yield to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Noble Medicines, yet at laſt are eaſily cured. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> among others the Caſe differs: For ſome <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Blood are vitiated, all the Humours corrupted <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtill worſe and worſe, notwithſtanding the fruit <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Endeavours of their ignorant Undertakers. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he that would cure this Diſeaſe, muſt amend <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Blood by ſuch Medicines as are Specificks. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this admirable <hi>Tincture</hi> doth help to digeſt the f<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eſt of the Sores; for it encourages the Nat<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Heat, animates the Spirits to throw off Infecti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and purges all flegmatick and glutinous Juice<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt proper to take three or four Spoonfuls, t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a Week, in this Diſeaſe: And if the Parts affe<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> were fomented with this Liquor, the Patient <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> find it worth his Labour.</p>
+               <p>
+                  <hi>VOMITING and GRIPING of the G<g ref="char:V">Ʋ</g>TS</hi> Is moſt certainly Cured by this <hi>Tincture.</hi> Five
+<pb n="15" facs="tcp:133302:10"/>ſix ſpoonfuls taken immediatly, ſtops the Vomiting, and ſoon Purges downwards the Humour that di<g ref="char:EOLhyphen"/>ſturbs the Body. Fear not to take it, becauſe your Gripes has given you many ſtools; for this will car<g ref="char:EOLhyphen"/>ry away the ſharp Humour, and comfort the Bow<g ref="char:EOLhyphen"/>els to a Miracle. If you are not Cured in an hour, take ſix or ſeven ſpoonfuls more, which will not fail you. I could inſert the Names of many, Cured by this <hi>Tincture,</hi> when no man expected any thing but Death.</p>
+               <p>Let all thoſe that drink the Waters, be ſure to prepare their Bodies, by taking three or four times of this <hi>Tincture.</hi> And thoſe with whom the Wa<g ref="char:EOLhyphen"/>ters do not paſs according to their Expectation, let them take four or five Spoonfuls of the <hi>Tincture,</hi> which will comfort the Stomach, and help the Ex<g ref="char:EOLhyphen"/>pulſive Faculty. And after a Courſe of Waters, there is nothing like this <hi>Tincture,</hi> to carry off what<g ref="char:EOLhyphen"/>ever ill the Waters have left.</p>
+               <p>I could ſay much more of the Vertues of this Ex<g ref="char:EOLhyphen"/>cellent <hi>Tincture;</hi> but I think I have obliged the World ſufficiently in this.</p>
+               <p>'Tis to be obſerved, that this <hi>Cordial Tincture</hi> will retain its Vertue many Years, if kept cloſe ſtopped, and will not be altered by any Climate. How good it is for Sea-men in long Voyages, is ſuf<g ref="char:EOLhyphen"/>ficiently known.</p>
+               <p>To ſhew the World I am not Covetous, I have allowed this incomparable <hi>Tincture</hi> at half a Crown a Bottle, each Bottle containing exactly half a Pint.</p>
+               <p>This <hi>Cordial Tincture,</hi> is ſold at my Houſe in St. <hi>Martins-Lane</hi> (being the BATHING-HOUSE)
+<pb n="16" facs="tcp:133302:11"/>near <hi>Long-Acre.</hi> Thoſe that live diſtant from me may ſend by the <hi>Penny-Poſt,</hi> or otherwiſe. I have ſealed up each Bottle with the Arms of my Family.</p>
+               <list>
+                  <head>
+                     <hi>And for the Conveniency of Perſons more remote I have cauſed this famous</hi> Tincture <hi>to be ſold,</hi> By</head>
+                  <item>MRs. <hi>Ade,</hi> in <hi>Auburn.</hi>
+                  </item>
+                  <item>Mr. <hi>Edward Duck,</hi> Barber near the Marke houſe in <hi>Marlborough.</hi>
+                  </item>
+                  <item>Mr. <hi>John Sherfield,</hi> Shop-keeper in <hi>Barnet.</hi>
+                  </item>
+                  <item>Mr. <hi>John Hamling,</hi> in <hi>Hungerford.</hi>
+                  </item>
+                  <item>Mr. <hi>Church Simons,</hi> Bookſeller at the <hi>Bridge-Foot Newbury.</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Biddle,</hi> Shop keeper in <hi>Sun-Lane, Reding.</hi>
+                  </item>
+                  <item>Mr. <hi>Joſeph Stevens,</hi> Barber in <hi>Henly.</hi>
+                  </item>
+                  <item>Mr. <hi>VVilliam Bates,</hi> Shop-keeper in <hi>Maiden-Head.</hi>
+                  </item>
+                  <item>Mr. <hi>John Ould,</hi> at the <hi>Kings-Arms</hi> in <hi>
+                        <g ref="char:V">Ʋ</g>xbridge.</hi>
+                  </item>
+                  <item>Mr. <hi>Gabriel Sheath,</hi> at the <hi>Green-Dragon</hi> in <hi>VVhetſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>Mr. <hi>James Ramridge,</hi> Barber-Surgeon in St. <hi>Alba</hi>
+                  </item>
+                  <item>Mr. <hi>Joſeph Faircloth,</hi> Grocer in <hi>Hatfield.</hi>
+                  </item>
+                  <item>Mrs. <hi>Mary Hebs,</hi> Draper in <hi>VVoburn.</hi>
+                  </item>
+                  <item>Mr. <hi>James Rhett,</hi> Barber in <hi>Amthill.</hi>
+                  </item>
+                  <item>Mr. <hi>George Maddy,</hi> Grocer in <hi>Bedford.</hi>
+                  </item>
+                  <item>Mr. <hi>John Clark,</hi> Iron-Monger in <hi>Stony-ſtratford.</hi>
+                  </item>
+                  <item>Mrs. <hi>Anne Poundall,</hi> Barber-Surgeon in <hi>Buckingham</hi>
+                  </item>
+                  <item>Mr. <hi>Edmund Potter,</hi> Iron-Monger in <hi>Biceſter.</hi>
+                  </item>
+                  <item>Mr. <hi>Peter Francklin,</hi> Barber-Surgeon in <hi>VVoodſt<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>Mr. <hi>VVilliam Cheyney,</hi> Shop-keeper in <hi>Abington.</hi>
+                  </item>
+                  <item>Mr. <hi>James Nichols,</hi> Jun. Barber in <hi>Oxford</hi> near <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Conduit.</hi>
+                  </item>
+                  <item>Mr. <hi>Francis Penſtone,</hi> Woolen-Draper in <hi>VVant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Knighton,</hi> Grocer, in <hi>Langborn.</hi>
+                  </item>
+               </list>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:133302:11"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
